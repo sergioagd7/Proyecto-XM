@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bases de datos
+*.db
+*.sqlite
+
+# Datos grandes (opcional)
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Power BI
+*.pbix
